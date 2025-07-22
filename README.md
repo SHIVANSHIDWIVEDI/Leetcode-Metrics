@@ -27,7 +27,7 @@ CORS Proxy – To bypass LeetCode's same-origin policy
     ├── style.css         # All styling (including animated progress circles)
     ├── script.js         # JavaScript logic and GraphQL API handling
 
-# ✅ 🔁 Cloning a GitHub Repository
+#  Cloning a GitHub Repository
 METHOD 1 -->
  Navigate to your project folder
 
