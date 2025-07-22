@@ -1,8 +1,9 @@
 # Leetcode-Metric
 # ✅ 🔁 Cloning a GitHub Repository
-1. Navigate to your project folder
+METHOD 1 -->
+ Navigate to your project folder
 
-        cd path/to/your/LeetMetric
+         cd path/to/your/LeetMetric
 Initialize Git (if not done) :
 
     git init
@@ -17,7 +18,7 @@ Push :
 
     git push -u origin main
     
-2. Clone It Anywhere
+METHOD 2  -->
 If your repo is now online (e.g., https://github.com/SHIVANSHIDWIVEDI/LeetMetric), then to clone :
 
 🖥️ From terminal :
