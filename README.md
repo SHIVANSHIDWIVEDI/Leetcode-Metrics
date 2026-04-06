@@ -53,8 +53,7 @@ From terminal :
               git clone https://github.com/SHIVANSHIDWIVEDI/LeetMetric.git
  Result :
 It will create a folder LeetMetric with all files (index.html, style.css, script.js) locally.
-# Live Link --> Try It Out Here
-http://127.0.0.1:5500/LeetMetric/index.html
+
 # Screenshot
 <img width="845" height="531" alt="Screenshot 2025-07-22 192858" src="https://github.com/user-attachments/assets/9abc40b6-18c2-4cd7-a635-900525a39fa7" />
 
